@@ -1,4 +1,3 @@
 This is chapter 1 of Story3
 updating on branch2
-
-adding this on branch3  .... adding this on master 
+adding this on master
